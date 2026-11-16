@@ -1,5 +1,7 @@
 # Deal Evaluator
 
+**▶ Try it live: https://sleepeq-null.github.io/deal-evaluator/**
+
 A zero-dependency web app for sanity-checking business deals — acquisitions, investments, partnerships, capex projects.
 
 Enter the upfront cost, expected cash flows, holding period, exit value and your hurdle rate, then rate the soft factors. You get:
